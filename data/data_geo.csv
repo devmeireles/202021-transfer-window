@@ -1,0 +1,186 @@
+name,position,age,market_value,country_from,league_from,club_from,country_to,league_to,club_to,fee,iso_from,iso_to
+Kai Havertz,Attacking Midfield,21,81000000,Germany,Bundesliga,Bayer 04 Leverkusen,England,Premier League,Chelsea FC,80000000,DEU,GBR
+Leroy Sané,Left Winger,24,80000000,England,Premier League,Manchester City,Germany,Bundesliga,Bayern Munich,45000000,GBR,DEU
+Arthur,Central Midfield,24,56000000,Spain,LaLiga,FC Barcelona,Italy,Serie A,Juventus FC,72000000,ESP,ITA
+Victor Osimhen,Centre-Forward,21,40000000,France,Ligue 1,LOSC Lille,Italy,Serie A,SSC Napoli,70000000,FRA,ITA
+Rúben Dias,Centre-Back,23,35000000,Portugal,Liga NOS,SL Benfica,England,Premier League,Manchester City,68000000,PRT,GBR
+Timo Werner,Centre-Forward,24,64000000,Germany,Bundesliga,RB Leipzig,England,Premier League,Chelsea FC,53000000,DEU,GBR
+Miralem Pjanic,Defensive Midfield,30,45000000,Italy,Serie A,Juventus FC,Spain,LaLiga,FC Barcelona,60000000,ITA,ESP
+Mauro Icardi,Centre-Forward,27,60000000,Italy,Serie A,Inter Milan,France,Ligue 1,Paris Saint-Germain,50000000,ITA,FRA
+Achraf Hakimi,Right Midfield,21,54000000,Spain,LaLiga,Real Madrid,Italy,Serie A,Inter Milan,40000000,ESP,ITA
+Ben Chilwell,Left-Back,23,40000000,England,Premier League,Leicester City,England,Premier League,Chelsea FC,50000000,GBR,GBR
+Thomas,Defensive Midfield,27,40000000,Spain,LaLiga,Atlético Madrid,England,Premier League,Arsenal FC,50000000,ESP,GBR
+Nicolò Barella,Central Midfield,23,50000000,Italy,Serie A,Cagliari Calcio,Italy,Serie A,Inter Milan,25000000,ITA,ITA
+Thiago,Central Midfield,29,48000000,Germany,Bundesliga,Bayern Munich,England,Premier League,Liverpool FC,22000000,DEU,GBR
+Federico Chiesa,Right Winger,22,48000000,Italy,Serie A,ACF Fiorentina,Italy,Serie A,Juventus FC,10000000,ITA,ITA
+Nathan Aké,Centre-Back,25,28000000,England,Championship,AFC Bournemouth,England,Premier League,Manchester City,45000000,GBR,GBR
+Ferran Torres,Right Winger,20,45000000,Spain,LaLiga,Valencia CF,England,Premier League,Manchester City,23000000,ESP,GBR
+Diogo Jota,Left Winger,23,28000000,England,Premier League,Wolverhampton Wanderers,England,Premier League,Liverpool FC,44000000,GBR,GBR
+Donny van de Beek,Central Midfield,23,44000000,Netherlands,Eredivisie,Ajax Amsterdam,England,Premier League,Manchester United,39000000,NLD,GBR
+Hakim Ziyech,Right Winger,27,40000000,Netherlands,Eredivisie,Ajax Amsterdam,England,Premier League,Chelsea FC,40000000,NLD,GBR
+Fábio Silva,Centre-Forward,18,12000000,Portugal,Liga NOS,FC Porto,England,Premier League,Wolverhampton Wanderers,40000000,PRT,GBR
+Giovani Lo Celso,Central Midfield,24,40000000,Spain,LaLiga,Real Betis Balompié,England,Premier League,Tottenham Hotspur,32000000,ESP,GBR
+Nélson Semedo,Right-Back,26,40000000,Spain,LaLiga,FC Barcelona,England,Premier League,Wolverhampton Wanderers,30000000,ESP,GBR
+Rodrigo,Centre-Forward,29,40000000,Spain,LaLiga,Valencia CF,England,Premier League,Leeds United,30000000,ESP,GBR
+Alex Telles,Left-Back,27,40000000,Portugal,Liga NOS,FC Porto,England,Premier League,Manchester United,15000000,PRT,GBR
+Álvaro Morata,Centre-Forward,27,36000000,England,Premier League,Chelsea FC,Spain,LaLiga,Atlético Madrid,35000000,GBR,ESP
+Álvaro Morata,Centre-Forward,27,36000000,Spain,LaLiga,Atlético Madrid,Italy,Serie A,Juventus FC,10000000,ESP,ITA
+Wesley Fofana,Centre-Back,19,10000000,France,Ligue 1,AS Saint-Étienne,England,Premier League,Leicester City,35000000,FRA,GBR
+Sandro Tonali,Defensive Midfield,20,32000000,Italy,Serie B,Brescia Calcio,Italy,Serie A,AC Milan,10000000,ITA,ITA
+Mattéo Guendouzi,Central Midfield,21,32000000,England,Premier League,Arsenal FC,Germany,Bundesliga,Hertha BSC,1000000,GBR,DEU
+Trincão,Right Winger,20,16000000,Portugal,Liga NOS,SC Braga,Spain,LaLiga,FC Barcelona,31000000,PRT,ESP
+Ollie Watkins,Centre-Forward,24,12000000,England,Championship,Brentford FC,England,Premier League,Aston Villa,30000000,GBR,GBR
+Sergio Reguilón,Left-Back,23,25000000,Spain,LaLiga,Real Madrid,England,Premier League,Tottenham Hotspur,30000000,ESP,GBR
+Takefusa Kubo,Right Winger,19,30000000,Spain,LaLiga,Real Madrid,Spain,LaLiga,Villarreal CF,2000000,ESP,ESP
+Allan,Central Midfield,29,28000000,Italy,Serie A,SSC Napoli,England,Premier League,Everton FC,25000000,ITA,GBR
+Éverton,Left Winger,24,28000000,Brazil,Série A,Grêmio Foot-Ball Porto Alegrense,Portugal,Liga NOS,SL Benfica,20000000,BRA,PRT
+Kevin Volland,Centre-Forward,28,28000000,Germany,Bundesliga,Bayer 04 Leverkusen,Monaco,Ligue 1,AS Monaco,15000000,DEU,MCO
+Ben Godfrey,Centre-Back,22,16000000,England,Championship,Norwich City,England,Premier League,Everton FC,27000000,GBR,GBR
+Jonathan David,Attacking Midfield,20,25000000,Belgium,Jupiler Pro League,KAA Gent,France,Ligue 1,LOSC Lille,27000000,BEL,FRA
+Yannick Carrasco,Left Winger,27,22000000,China,Super League,Dalian Professional,Spain,LaLiga,Atlético Madrid,27000000,CHN,ESP
+Patrik Schick,Centre-Forward,24,25000000,Italy,Serie A,AS Roma,Germany,Bundesliga,Bayer 04 Leverkusen,26000000,ITA,DEU
+Rhian Brewster,Centre-Forward,20,5000000,England,Premier League,Liverpool FC,England,Premier League,Sheffield United,26000000,GBR,GBR
+Jérémy Doku,Right Winger,18,9000000,Belgium,Jupiler Pro League,RSC Anderlecht,France,Ligue 1,Stade Rennais FC,26000000,BEL,FRA
+Gabriel,Centre-Back,22,20000000,France,Ligue 1,LOSC Lille,England,Premier League,Arsenal FC,26000000,FRA,GBR
+Tiemoué Bakayoko,Defensive Midfield,26,25000000,England,Premier League,Chelsea FC,Italy,Serie A,SSC Napoli,2000000,GBR,ITA
+Emre Can,Defensive Midfield,26,24000000,Italy,Serie A,Juventus FC,Germany,Bundesliga,Borussia Dortmund,25000000,ITA,DEU
+Mario Pasalic,Central Midfield,25,25000000,England,Premier League,Chelsea FC,Italy,Serie A,Atalanta BC,15000000,GBR,ITA
+Marash Kumbulla,Centre-Back,20,25000000,Italy,Serie A,Hellas Verona,Italy,Serie A,AS Roma,3000000,ITA,ITA
+Edouard Mendy,Goalkeeper,28,7000000,France,Ligue 1,Stade Rennais FC,England,Premier League,Chelsea FC,24000000,FRA,GBR
+Timothy Castagne,Right-Back,24,18000000,Italy,Serie A,Atalanta BC,England,Premier League,Leicester City,24000000,ITA,GBR
+Darwin Núñez,Centre-Forward,21,10000000,Spain,LaLiga2,UD Almería,Portugal,Liga NOS,SL Benfica,24000000,ESP,PRT
+Jordan Veretout,Central Midfield,27,24000000,Italy,Serie A,ACF Fiorentina,Italy,Serie A,AS Roma,16000000,ITA,ITA
+André Silva,Centre-Forward,24,24000000,Italy,Serie A,AC Milan,Germany,Bundesliga,Eintracht Frankfurt,9000000,ITA,DEU
+Danilo Pereira,Defensive Midfield,29,24000000,Portugal,Liga NOS,FC Porto,France,Ligue 1,Paris Saint-Germain,4000000,PRT,FRA
+Jude Bellingham,Central Midfield,17,11000000,England,Championship,Birmingham City,Germany,Bundesliga,Borussia Dortmund,23000000,GBR,DEU
+Cengiz Ünder,Right Winger,23,23000000,Italy,Serie A,AS Roma,England,Premier League,Leicester City,3000000,ITA,GBR
+Callum Wilson,Centre-Forward,28,20000000,England,Championship,AFC Bournemouth,England,Premier League,Newcastle United,22000000,GBR,GBR
+Abdoulaye Doucouré,Central Midfield,27,20000000,England,Championship,Watford FC,England,Premier League,Everton FC,22000000,GBR,GBR
+Gianluca Mancini,Centre-Back,24,22000000,Italy,Serie A,Atalanta BC,Italy,Serie A,AS Roma,13000000,ITA,ITA
+Saïd Benrahma,Left Winger,25,22000000,England,Championship,Brentford FC,England,Premier League,West Ham United,4000000,GBR,GBR
+Sergiño Dest,Right-Back,19,18000000,Netherlands,Eredivisie,Ajax Amsterdam,Spain,LaLiga,FC Barcelona,21000000,NLD,ESP
+Amad Diallo,Right Winger,18,-,Italy,Serie A,Atalanta BC,England,Premier League,Manchester United,21000000,ITA,GBR
+Aaron Ramsdale,Goalkeeper,22,12000000,England,Championship,AFC Bournemouth,England,Premier League,Sheffield United,20000000,GBR,GBR
+Wendel,Central Midfield,23,12000000,Portugal,Liga NOS,Sporting CP,Russia,Premier Liga,Zenit St. Petersburg,20000000,PRT,RUS
+Lucas Paquetá,Attacking Midfield,23,20000000,Italy,Serie A,AC Milan,France,Ligue 1,Olympique Lyon,20000000,ITA,FRA
+Diego Llorente,Centre-Back,27,20000000,Spain,LaLiga,Real Sociedad,England,Premier League,Leeds United,20000000,ESP,GBR
+Alexander Sörloth,Centre-Forward,24,20000000,England,Premier League,Crystal Palace,Germany,Bundesliga,RB Leipzig,20000000,GBR,DEU
+Simone Verdi,Attacking Midfield,28,13000000,Italy,Serie A,SSC Napoli,Italy,Serie A,Torino FC,20000000,ITA,ITA
+Stefano Sensi,Central Midfield,25,20000000,Italy,Serie A,US Sassuolo,Italy,Serie A,Inter Milan,20000000,ITA,ITA
+Pierre-Emile Höjbjerg,Defensive Midfield,25,20000000,England,Premier League,Southampton FC,England,Premier League,Tottenham Hotspur,16000000,GBR,GBR
+Chris Smalling,Centre-Back,30,20000000,England,Premier League,Manchester United,Italy,Serie A,AS Roma,15000000,GBR,ITA
+Weston McKennie,Central Midfield,22,20000000,Germany,Bundesliga,FC Schalke 04,Italy,Serie A,Juventus FC,4000000,DEU,ITA
+Carlos Vinícius,Centre-Forward,25,20000000,Portugal,Liga NOS,SL Benfica,England,Premier League,Tottenham Hotspur,3000000,PRT,GBR
+Ivan Rakitic,Central Midfield,32,20000000,Spain,LaLiga,FC Barcelona,Spain,LaLiga,Sevilla FC,1000000,ESP,ESP
+Justin Kluivert,Left Winger,21,20000000,Italy,Serie A,AS Roma,Germany,Bundesliga,RB Leipzig,1000000,ITA,DEU
+Andrea Pinamonti,Centre-Forward,21,13000000,Italy,Serie A,Inter Milan,Italy,Serie A,Genoa CFC,19000000,ITA,ITA
+Bertrand Traoré,Right Winger,25,9000000,France,Ligue 1,Olympique Lyon,England,Premier League,Aston Villa,18000000,FRA,GBR
+Pedrinho,Right Winger,22,13000000,Brazil,Série A,Sport Club Corinthians Paulista,Portugal,Liga NOS,SL Benfica,18000000,BRA,PRT
+Roberto Inglese,Centre-Forward,28,12000000,Italy,Serie A,SSC Napoli,Italy,Serie A,Parma Calcio 1913,18000000,ITA,ITA
+Antony,Right Winger,20,18000000,Brazil,Série A,São Paulo Futebol Clube,Netherlands,Eredivisie,Ajax Amsterdam,15000000,BRA,NLD
+Aleksey Miranchuk,Attacking Midfield,25,18000000,Russia,Premier Liga,Lokomotiv Moscow,Italy,Serie A,Atalanta BC,14000000,RUS,ITA
+Marc Cucurella,Left Midfield,22,18000000,Spain,LaLiga,FC Barcelona,Spain,LaLiga,Getafe CF,10000000,ESP,ESP
+Florentino,Defensive Midfield,21,18000000,Portugal,Liga NOS,SL Benfica,Monaco,Ligue 1,AS Monaco,1000000,PRT,MCO
+Eberechi Eze,Attacking Midfield,22,9000000,England,Championship,Queens Park Rangers,England,Premier League,Crystal Palace,17000000,GBR,GBR
+Hélder Costa,Right Winger,26,8000000,England,Premier League,Wolverhampton Wanderers,England,Premier League,Leeds United,17000000,GBR,GBR
+Suso,Right Winger,26,17000000,Italy,Serie A,AC Milan,Spain,LaLiga,Sevilla FC,21000000,ITA,ESP
+Vedat Muriqi,Centre-Forward,26,12000000,Turkey,Süper Lig,Fenerbahce SK,Italy,Serie A,SS Lazio,17000000,TUR,ITA
+Christian Kouamé,Centre-Forward,22,17000000,Italy,Serie A,Genoa CFC,Italy,Serie A,ACF Fiorentina,11000000,ITA,ITA
+Emiliano Martínez,Goalkeeper,28,8000000,England,Premier League,Arsenal FC,England,Premier League,Aston Villa,17000000,GBR,GBR
+Robin Koch,Centre-Back,24,17000000,Germany,Bundesliga,SC Freiburg,England,Premier League,Leeds United,13000000,DEU,GBR
+Matt Doherty,Right-Back,28,16000000,England,Premier League,Wolverhampton Wanderers,England,Premier League,Tottenham Hotspur,16000000,GBR,GBR
+Jamal Lewis,Left-Back,22,11000000,England,Championship,Norwich City,England,Premier League,Newcastle United,16000000,GBR,GBR
+Karlan Grant,Centre-Forward,23,6000000,England,Championship,Huddersfield Town,England,Premier League,West Bromwich Albion,16000000,GBR,GBR
+Pervis Estupiñán,Left-Back,22,15000000,England,Championship,Watford FC,Spain,LaLiga,Villarreal CF,16000000,GBR,ESP
+Gonzalo Martínez,Attacking Midfield,27,12000000,United States,MLS,Atlanta United FC,Saudi Arabia,Professional League,Al-Nassr FC,16000000,USA,SAU
+Tomas Soucek,Defensive Midfield,25,12000000,Czech Republic,Fortuna Liga,SK Slavia Prague,England,Premier League,West Ham United,16000000,CZE,GBR
+Raphinha,Right Winger,23,16000000,France,Ligue 1,Stade Rennais FC,England,Premier League,Leeds United,18000000,FRA,GBR
+Luca Waldschmidt,Centre-Forward,24,16000000,Germany,Bundesliga,SC Freiburg,Portugal,Liga NOS,SL Benfica,15000000,DEU,PRT
+Marc Roca,Defensive Midfield,23,16000000,Spain,LaLiga2,RCD Espanyol Barcelona,Germany,Bundesliga,Bayern Munich,9000000,ESP,DEU
+Harry Wilson,Right Winger,23,16000000,England,Premier League,Liverpool FC,Wales,Championship,Cardiff City,1000000,GBR,GBR
+Joachim Andersen,Centre-Back,24,16000000,France,Ligue 1,Olympique Lyon,England,Premier League,Fulham FC,1000000,FRA,GBR
+Matty Cash,Right-Back,23,4000000,England,Championship,Nottingham Forest,England,Premier League,Aston Villa,15000000,GBR,GBR
+Alfred Duncan,Central Midfield,27,15000000,Italy,Serie A,US Sassuolo,Italy,Serie A,ACF Fiorentina,15000000,ITA,ITA
+Serhou Guirassy,Centre-Forward,24,8000000,France,Ligue 2,Amiens SC,France,Ligue 1,Stade Rennais FC,15000000,FRA,FRA
+Jhon Córdoba,Centre-Forward,27,12000000,Germany,Bundesliga,1. FC Köln,Germany,Bundesliga,Hertha BSC,15000000,DEU,DEU
+Nicolás Otamendi,Centre-Back,32,14000000,England,Premier League,Manchester City,Portugal,Liga NOS,SL Benfica,15000000,GBR,PRT
+Ibrahima Diallo,Defensive Midfield,21,15000000,France,Ligue 1,Stade Brest 29,England,Premier League,Southampton FC,15000000,FRA,GBR
+Óscar Rodríguez,Attacking Midfield,22,15000000,Spain,LaLiga,Real Madrid,Spain,LaLiga,Sevilla FC,13000000,ESP,ESP
+Giovanni Simeone,Centre-Forward,25,15000000,Italy,Serie A,ACF Fiorentina,Italy,Serie A,Cagliari Calcio,12000000,ITA,ITA
+Philipp Max,Left-Back,27,15000000,Germany,Bundesliga,FC Augsburg,Netherlands,Eredivisie,PSV Eindhoven,8000000,DEU,NLD
+Valentino Lazaro,Right Midfield,24,15000000,Italy,Serie A,Inter Milan,Germany,Bundesliga,Borussia Mönchengladbach,1000000,ITA,DEU
+Wylan Cyprien,Central Midfield,25,14000000,France,Ligue 1,OGC Nice,Italy,Serie A,Parma Calcio 1913,1000000,FRA,ITA
+Karl Toko Ekambi,Centre-Forward,28,14000000,Spain,LaLiga,Villarreal CF,France,Ligue 1,Olympique Lyon,11000000,ESP,FRA
+Francis Coquelin,Defensive Midfield,29,14000000,Spain,LaLiga,Valencia CF,Spain,LaLiga,Villarreal CF,6000000,ESP,ESP
+Cristian Romero,Centre-Back,22,14000000,Italy,Serie A,Juventus FC,Italy,Serie A,Atalanta BC,2000000,ITA,ITA
+Jean-Clair Todibo,Centre-Back,20,14000000,Spain,LaLiga,FC Barcelona,Portugal,Liga NOS,SL Benfica,2000000,ESP,PRT
+Grady Diangana,Left Winger,22,4000000,England,Premier League,West Ham United,England,Premier League,West Bromwich Albion,13000000,GBR,GBR
+Axel Disasi,Centre-Back,22,13000000,France,Ligue 1,Stade Reims,Monaco,Ligue 1,AS Monaco,13000000,FRA,MCO
+Andrea Pinamonti,Centre-Forward,21,13000000,Italy,Serie A,Genoa CFC,Italy,Serie A,Inter Milan,8000000,ITA,ITA
+Arne Maier,Defensive Midfield,21,13000000,Germany,Bundesliga,Hertha BSC,Germany,Bundesliga,Arminia Bielefeld,500000,DEU,DEU
+Kyle Walker-Peters,Right-Back,23,8000000,England,Premier League,Tottenham Hotspur,England,Premier League,Southampton FC,13000000,GBR,GBR
+Konstantinos Tsimikas,Left-Back,24,9000000,Greece,Super League 1,Olympiacos Piraeus,England,Premier League,Liverpool FC,13000000,GRC,GBR
+Marko Rog,Central Midfield,25,13000000,Italy,Serie A,SSC Napoli,Italy,Serie A,Cagliari Calcio,13000000,ITA,ITA
+Joe Rodon,Centre-Back,22,7000000,Wales,Championship,Swansea City,England,Premier League,Tottenham Hotspur,12000000,GBR,GBR
+Dejan Lovren,Centre-Back,31,12000000,England,Premier League,Liverpool FC,Russia,Premier Liga,Zenit St. Petersburg,12000000,GBR,RUS
+Mohammed Salisu,Centre-Back,21,12000000,Spain,LaLiga,Real Valladolid CF,England,Premier League,Southampton FC,12000000,ESP,GBR
+Martin Terrier,Left Winger,23,10000000,France,Ligue 1,Olympique Lyon,France,Ligue 1,Stade Rennais FC,12000000,FRA,FRA
+Oussama Idrissi,Left Winger,24,12000000,Netherlands,Eredivisie,AZ Alkmaar,Spain,LaLiga,Sevilla FC,12000000,NLD,ESP
+Davy Klaassen,Central Midfield,27,12000000,Germany,Bundesliga,SV Werder Bremen,Netherlands,Eredivisie,Ajax Amsterdam,11000000,DEU,NLD
+Rolando Mandragora,Defensive Midfield,23,12000000,Italy,Serie A,Udinese Calcio,Italy,Serie A,Juventus FC,10000000,ITA,ITA
+Marcos Acuña,Left-Back,28,12000000,Portugal,Liga NOS,Sporting CP,Spain,LaLiga,Sevilla FC,10000000,PRT,ESP
+Habib Diallo,Centre-Forward,25,12000000,France,Ligue 1,FC Metz,France,Ligue 1,RC Strasbourg Alsace,10000000,FRA,FRA
+Dudu,Right Winger,28,12000000,Brazil,Série A,Sociedade Esportiva Palmeiras,Qatar,Stars League,Al-Duhail SC,7000000,BRA,QAT
+Santiago Arias,Right-Back,28,12000000,Spain,LaLiga,Atlético Madrid,Germany,Bundesliga,Bayer 04 Leverkusen,3000000,ESP,DEU
+Gonçalo Paciência,Centre-Forward,26,12000000,Germany,Bundesliga,Eintracht Frankfurt,Germany,Bundesliga,FC Schalke 04,2000000,DEU,DEU
+Daniele Rugani,Centre-Back,26,12000000,Italy,Serie A,Juventus FC,France,Ligue 1,Stade Rennais FC,1000000,ITA,FRA
+Anthony Knockaert,Right Winger,28,6000000,England,Premier League,Brighton & Hove Albion,England,Premier League,Fulham FC,11000000,GBR,GBR
+Chidera Ejuke,Left Winger,22,5000000,Netherlands,Eredivisie,SC Heerenveen,Russia,Premier Liga,CSKA Moscow,11000000,NLD,RUS
+Pol Lirola,Right-Back,23,10000000,Italy,Serie A,US Sassuolo,Italy,Serie A,ACF Fiorentina,11000000,ITA,ITA
+Carles Pérez,Right Winger,22,9000000,Spain,LaLiga,FC Barcelona,Italy,Serie A,AS Roma,11000000,ESP,ITA
+Kevin Bonifazi,Centre-Back,24,4000000,Italy,Serie A,Torino FC,Italy,Serie B,SPAL,11000000,ITA,ITA
+Adolfo Gaich,Centre-Forward,21,11000000,Argentina,Without League,Club Atlético San Lorenzo de Almagro,Russia,Premier Liga,CSKA Moscow,8000000,ARG,RUS
+Maximilian Philipp,Second Striker,26,11000000,Russia,Premier Liga,Dynamo Moscow,Germany,Bundesliga,VfL Wolfsburg,2000000,RUS,DEU
+Hannes Wolf,Attacking Midfield,21,11000000,Germany,Bundesliga,RB Leipzig,Germany,Bundesliga,Borussia Mönchengladbach,1000000,DEU,DEU
+Félix Correia,Right Winger,19,1000000,England,Premier League 2,Manchester City U23,Italy,Serie C - A,Juventus U23,10000000,GBR,ITA
+Ondrej Duda,Attacking Midfield,25,10000000,Germany,Bundesliga,Hertha BSC,Germany,Bundesliga,1. FC Köln,7000000,DEU,DEU
+Pablo Moreno,Centre-Forward,18,-,Italy,Primavera 1,Juventus Primavera,England,Premier League,Manchester City,10000000,ITA,GBR
+Baptiste Santamaria,Defensive Midfield,25,7000000,France,Ligue 1,SCO Angers,Germany,Bundesliga,SC Freiburg,10000000,FRA,DEU
+Alfred Gomis,Goalkeeper,27,2000000,France,Ligue 1,Dijon FCO,France,Ligue 1,Stade Rennais FC,10000000,FRA,FRA
+Ridle Baku,Right-Back,22,7000000,Germany,Bundesliga,1.FSV Mainz 05,Germany,Bundesliga,VfL Wolfsburg,10000000,DEU,DEU
+Hee-chan Hwang,Centre-Forward,24,10000000,Austria,Bundesliga,Red Bull Salzburg,Germany,Bundesliga,RB Leipzig,9000000,AUT,DEU
+Karol Linetty,Central Midfield,25,10000000,Italy,Serie A,UC Sampdoria,Italy,Serie A,Torino FC,7000000,ITA,ITA
+Lucas Martínez Quarta,Centre-Back,24,10000000,Argentina,Without League,Club Atlético River Plate,Italy,Serie A,ACF Fiorentina,6000000,ARG,ITA
+Mario Lemina,Defensive Midfield,27,10000000,England,Premier League,Southampton FC,England,Premier League,Fulham FC,2000000,GBR,GBR
+Ademola Lookman,Left Winger,23,10000000,Germany,Bundesliga,RB Leipzig,England,Premier League,Fulham FC,2000000,DEU,GBR
+Borja Mayoral,Centre-Forward,23,10000000,Spain,LaLiga,Real Madrid,Italy,Serie A,AS Roma,2000000,ESP,ITA
+Alessandro Florenzi,Right-Back,29,10000000,Italy,Serie A,AS Roma,France,Ligue 1,Paris Saint-Germain,1000000,ITA,FRA
+Ki-Jana Hoever,Right-Back,18,3000000,England,Premier League 2,Liverpool FC U23,England,Premier League,Wolverhampton Wanderers,9000000,GBR,GBR
+Ibrahim Sangaré,Defensive Midfield,22,9000000,France,Ligue 2,FC Toulouse,Netherlands,Eredivisie,PSV Eindhoven,9000000,FRA,NLD
+Seko Fofana,Central Midfield,25,9000000,Italy,Serie A,Udinese Calcio,France,Ligue 1,RC Lens,8000000,ITA,FRA
+Matheus Pereira,Right Winger,24,9000000,Portugal,Liga NOS,Sporting CP,England,Premier League,West Bromwich Albion,8000000,PRT,GBR
+Aaron Mooy,Central Midfield,30,9000000,England,Premier League,Brighton & Hove Albion,China,Super League,Shanghai SIPG,4000000,GBR,CHN
+Morgan Schneiderlin,Defensive Midfield,30,9000000,England,Premier League,Everton FC,France,Ligue 1,OGC Nice,2000000,GBR,FRA
+Shane Duffy,Centre-Back,28,9000000,England,Premier League,Brighton & Hove Albion,Scotland,Premiership,Celtic FC,2000000,GBR,GBR
+Adrian Grbic,Centre-Forward,24,2000000,France,Ligue 2,Clermont Foot 63,France,Ligue 1,FC Lorient,9000000,FRA,FRA
+Mohammed Kudus,Attacking Midfield,20,9000000,Denmark,Superligaen,FC Nordsjaelland,Netherlands,Eredivisie,Ajax Amsterdam,9000000,DNK,NLD
+Grégoire Defrel,Centre-Forward,29,8000000,Italy,Serie A,AS Roma,Italy,Serie A,US Sassuolo,9000000,ITA,ITA
+Vlad Chiriches,Centre-Back,30,5000000,Italy,Serie A,SSC Napoli,Italy,Serie A,US Sassuolo,9000000,ITA,ITA
+Adrian Grbic,Centre-Forward,24,2000000,France,Ligue 2,Clermont Foot 63,France,Ligue 1,FC Lorient,9000000,FRA,FRA
+Vlad Chiriches,Centre-Back,30,5000000,Italy,Serie A,SSC Napoli,Italy,Serie A,US Sassuolo,9000000,ITA,ITA
+Bouna Sarr,Right-Back,28,9000000,France,Ligue 1,Olympique Marseille,Germany,Bundesliga,Bayern Munich,8000000,FRA,DEU
+Tiquinho Soares,Centre-Forward,29,9000000,Portugal,Liga NOS,FC Porto,China,Super League,Tianjin Teda,5000000,PRT,CHN
+Dalbert,Left-Back,27,9000000,Italy,Serie A,Inter Milan,France,Ligue 1,Stade Rennais FC,2000000,ITA,FRA
+Rúben Vinagre,Left-Back,21,9000000,England,Premier League,Wolverhampton Wanderers,Greece,Super League 1,Olympiacos Piraeus,1000000,GBR,GRC
+Nikola Moro,Defensive Midfield,22,6000000,Croatia,1.HNL,GNK Dinamo Zagreb,Russia,Premier Liga,Dynamo Moscow,8000000,HRV,RUS
+Facundo Pellistri,Right Winger,18,1000000,Uruguay,Torneo Intermedio,CA Peñarol,England,Premier League,Manchester United,8000000,URY,GBR
+Karim Rekik,Centre-Back,25,8000000,Germany,Bundesliga,Hertha BSC,Spain,LaLiga,Sevilla FC,2000000,DEU,ESP
+Guus Til,Attacking Midfield,22,8000000,Russia,Premier Liga,Spartak Moscow,Germany,Bundesliga,SC Freiburg,450000,RUS,DEU
+Caio Henrique,Left-Back,23,1000000,Spain,LaLiga,Atlético Madrid,Monaco,Ligue 1,AS Monaco,8000000,ESP,MCO
+Yann Karamoh,Right Winger,22,7000000,Italy,Serie A,Inter Milan,Italy,Serie A,Parma Calcio 1913,8000000,ITA,ITA
+Terem Moffi,Centre-Forward,21,3000000,Belgium,Jupiler Pro League,KV Kortrijk,France,Ligue 1,FC Lorient,8000000,BEL,FRA
+Pablo Marí,Centre-Back,27,4000000,Brazil,Série A,Clube de Regatas do Flamengo,England,Premier League,Arsenal FC,8000000,BRA,GBR
+Robson Bambu,Centre-Back,22,800000,Brazil,Série A,Club Athletico Paranaense,France,Ligue 1,OGC Nice,8000000,BRA,FRA
+Abel Ruiz,Centre-Forward,20,4000000,Spain,2ª B - Grupo III,FC Barcelona B,Portugal,Liga NOS,SC Braga,8000000,ESP,PRT
+Mohamed Fares,Left Midfield,24,7000000,Italy,Serie B,SPAL,Italy,Serie A,SS Lazio,8000000,ITA,ITA
+Bruno Fuchs,Centre-Back,21,1000000,Brazil,Série A,Sport Club Internacional,Russia,Premier Liga,CSKA Moscow,8000000,BRA,RUS
